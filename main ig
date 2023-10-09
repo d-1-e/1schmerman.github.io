@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schmerman Language</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#learn">Learn</a></li>
+                <li><a href="#resources">Resources</a></li>
+            </ul>
+        </nav>
+        <h1>Welcome to the Schmerman Language Page</h1>
+    </header>
+
+    <section id="about" class="content">
+        <h2>About Schmerman Language</h2>
+        <p>Schmerman Language is a fictional constructed language (conlang) created for creative and entertainment purposes. It has its own unique grammar, vocabulary, and writing system.</p>
+    </section>
+
+    <section id="features" class="content">
+        <h2>Features of Schmerman Language</h2>
+        <ul>
+            <li>Rich vocabulary for various concepts</li>
+            <li>Unique alphabet and writing system</li>
+            <li>Interesting grammar rules and sentence structure</li>
+            <li>Used in fictional stories, movies, and games</li>
+        </ul>
+    </section>
+
+    <section id="learn" class="content">
+        <h2>Learn Schmerman Language</h2>
+        <p>If you're interested in learning Schmerman Language, you can find resources, tutorials, and communities dedicated to this fascinating conlang.</p>
+    </section>
+
+    <section id="resources" class="content">
+        <h2>Resources</h2>
+        <ul>
+            <li><a href="#your-link-here">Schmerman Language Dictionary</a></li>
+            <li><a href="#your-link-here">Schmerman Language Grammar Guide</a></li>
+            <li><a href="#your-link-here">Schmerman Language Forums</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Schmerman Language</p>
+    </footer>
+</body>
+</html>
